@@ -2,4 +2,4 @@
 <p align='center'>
 I'm Deri.
 </p>
-<p align='center'>Please email me deriforwork@gmail.com</p>
+<p align='center'>deriforwork@gmail.com</p>
